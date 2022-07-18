@@ -1,8 +1,8 @@
 /****************************************
 *    Software Engineering Assignment    *
 *    Assignment 2 Fractions             *
-*    Name:       Mayank Kumar           *
-*    Roll No.:   19CS30029              *
+*    Name:       Anuj Verma             *
+*    Roll No.:   19MI31005              *
 *****************************************/
 
 #include "Fraction.hxx"
